@@ -1,5 +1,3 @@
-## Hello world, I'm 👋
-
 # 👋 Hello, World!
 
 ```java
@@ -49,11 +47,11 @@ public class Developer {
 
 ```text
 Java         ██████████░░░
-Spring Boot  █████████░░░░
+SQL          ██████████░░░
 Python       ████████░░░░░
+С++          ████████░░░░░  
 Linux        ██████████░░░
-Docker       ████████░░░░░
-Kubernetes   ██████░░░░░░░
+Bash         ██████████░░░
 ```
 
 ---
