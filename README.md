@@ -60,5 +60,3 @@ Bash         ██████████░░░
 
 Building software that is not only functional,
 but also secure, scalable, and reliable.
-
-> "First, solve the problem. Then, secure the solution." 🔐
