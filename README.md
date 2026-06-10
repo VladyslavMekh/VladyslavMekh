@@ -1,11 +1,19 @@
-### Hello, World! 👋🏼
+## Hello world, I'm 👋
 
-## About me
+### 🎓 Student at the Polish-Japanese Academy of Information Technology (PJATK)
 
-### Student at the [Polish-Japanese Academy of Information Technology] 👨🏻‍🎓
-### [PJSEC] *Active Club Member* and *Cryptography Section Member*
+### 🔐 Active Member of PJSEC
+### 🛡️ Cryptography Section Member
 
-### Spetializacion: Software Engineering | Cybersecurity
-### Learning the following programming languages ​​for frameworks
-- #### Java | C++ | Python | Bash | SQL | Linux System
-- #### Spring | Sprint Boot | Docker | Kubernetes | Hibernate
+## 🚀 About Me
+### 💻 Specializing in Software Engineering & Cybersecurity
+### 🌱 Currently expanding my knowledge in backend development, cloud technologies, and secure software design
+### 🔍 Passionate about cryptography, system security, and modern software architecture
+### ⚡ Always learning and building new projects
+
+### 🎯 Current Focus
+- ### Secure Backend Development
+- ### Cloud Native Applications
+- ### Containerization & Orchestration
+- ### Applied Cryptography
+- ### DevSecOps Practices
