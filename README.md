@@ -1,17 +1,11 @@
-# Hello, World! 👋
+### Hello, World! 👋🏼
 
-```html
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1>Hello, World!</h1>
-    <p>Welcome to my GitHub profile.</p>
-  </body>
-</html>
-```
+## About me
 
-💻 Learning web development
+### Student at the [Polish-Japanese Academy of Information Technology] 👨🏻‍🎓
+### [PJSEC] *Active Club Member* and *Cryptography Section Member*
 
-🚀 Building cool projects
-
-📫 Contact me: your-email@example.com
+### Spetializacion: Software Engineering | Cybersecurity
+### Learning the following programming languages ​​for frameworks
+- #### Java | C++ | Python | Bash | SQL | Linux System
+- #### Spring | Sprint Boot | Docker | Kubernetes | Hibernate
