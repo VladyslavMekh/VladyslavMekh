@@ -1,18 +1,66 @@
 ## Hello world, I'm 👋
- 🎓 Student at the Polish-Japanese Academy of Information Technology (PJATK)
- 
- 🔐 Active Member of PJSEC
- 🛡️ Cryptography Section Member
 
-## 🚀 About Me
-💻 Specializing in Software Engineering & Cybersecurity
-🌱 Currently expanding my knowledge in backend development, cloud technologies, and secure software design
-🔍 Passionate about cryptography, system security, and modern software architecture
-⚡ Always learning and building new projects
+# 👋 Hello, World!
 
-## 🎯 Current Focus
-- Secure Backend Development
-- Cloud Native Applications
-- Containerization & Orchestration
-- Applied Cryptography
-- DevSecOps Practices
+```java
+public class Developer {
+    String role = "Software Engineering Student";
+    String focus = "Cybersecurity";
+    String[] interests = {
+        "Cryptography",
+        "Backend Development",
+        "Cloud Computing",
+        "DevSecOps"
+    };
+
+    void currentStatus() {
+        System.out.println("Learning. Building. Breaking. Securing.");
+    }
+}
+```
+
+## 🧑‍💻 Who Am I?
+
+🎓 Software Engineering student at **PJATK**
+
+🔐 Active member of **PJSEC** and the **Cryptography Section**
+
+💡 Interested in secure software development, backend systems, cloud infrastructure, and applied cryptography.
+
+⚙️ I enjoy understanding how systems work under the hood — and how they can be made more secure.
+
+---
+
+## 🚀 What I'm Currently Exploring
+
+🛡️ Secure Backend Development
+
+☁️ Cloud Native Applications
+
+🐳 Docker & Kubernetes Ecosystem
+
+🔑 Applied Cryptography
+
+⚡ DevSecOps & Infrastructure Automation
+
+---
+
+## 📚 Learning Never Stops
+
+```text
+Java         ██████████░░░
+Spring Boot  █████████░░░░
+Python       ████████░░░░░
+Linux        ██████████░░░
+Docker       ████████░░░░░
+Kubernetes   ██████░░░░░░░
+```
+
+---
+
+## 🎯 Mission
+
+Building software that is not only functional,
+but also secure, scalable, and reliable.
+
+> "First, solve the problem. Then, secure the solution." 🔐
