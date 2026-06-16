@@ -1,62 +1,14 @@
-# 👋 Hello, World!
+# 🧑🏻‍💻 Hello, World!
 
-```java
-public class Developer {
-    String role = "Software Engineering Student";
-    String focus = "Cybersecurity";
-    String[] interests = {
-        "Cryptography",
-        "Backend Development",
-        "Cloud Computing",
-        "DevSecOps"
-    };
+**`Software Engineer (Developer/Cybersecurity/Engineer)`**
 
-    void currentStatus() {
-        System.out.println("Learning. Building. Breaking. Securing.");
-    }
-}
-```
+Software Engineering student at PJATK with a strong interest in cybersecurity, backend systems, cloud technologies, and applied cryptography. Active member of PJSEC and the Cryptography Section, focused on building secure, scalable, and reliable solutions. Passionate about understanding systems at a deeper level and improving their security, performance, and resilience.
 
-## 🧑‍💻 Who Am I?
+### 🧰 Languages and Tools
 
-🎓 Software Engineering student at **PJATK**
-
-🔐 Active member of **PJSEC** and the **Cryptography Section**
-
-💡 Interested in secure software development, backend systems, cloud infrastructure, and applied cryptography.
-
-⚙️ I enjoy understanding how systems work under the hood — and how they can be made more secure.
-
----
-
-## 🚀 What I'm Currently Exploring
-
-🛡️ Secure Backend Development
-
-☁️ Cloud Native Applications
-
-🐳 Docker & Kubernetes Ecosystem
-
-🔑 Applied Cryptography
-
-⚡ DevSecOps & Infrastructure Automation
-
----
-
-## 📚 Learning Never Stops
-
-```text
-Java         ██████████░░░
-SQL          ██████████░░░
-Python       ████████░░░░░
-С++          ████████░░░░░  
-Linux        ██████████░░░
-Bash         ██████████░░░
-```
-
----
-
-## 🎯 Mission
-
-Building software that is not only functional,
-but also secure, scalable, and reliable.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
