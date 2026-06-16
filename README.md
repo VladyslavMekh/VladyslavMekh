@@ -17,6 +17,7 @@ Software Engineering student at PJATK with a strong interest in cybersecurity, b
 <img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="KaliLinux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"/>
 
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5/?locale=uk">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
