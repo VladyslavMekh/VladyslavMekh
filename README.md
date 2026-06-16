@@ -5,8 +5,9 @@
 Software Engineering student at PJATK with a strong interest in cybersecurity, backend systems, cloud technologies, and applied cryptography. Active member of PJSEC and the Cryptography Section, focused on building secure, scalable, and reliable solutions. Passionate about understanding systems at a deeper level and improving their security, performance, and resilience.
 
 ### Connect with me:
-<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladyslav-mekh-769a5b3b5%2F?style=for-the-badge&label=LinkedIn&labelColor=%230F172B&color=%234F39F6&cacheSeconds=3"/>
-
+<a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5/?locale=uk">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
