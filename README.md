@@ -8,9 +8,6 @@ Software Engineering student at PJATK with a strong interest in cybersecurity, b
 <a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5/?locale=uk">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discord.com/users/USER_ID" target="_blank">
-  <img src="https://img.shields.io/badge/discord.com-vladmekh101?style=for-the-badge&labelColor=%230F172B&color=%234D179A&cacheSeconds=3">
-</a>
 
 ### 🧰 Languages and Tools
 
