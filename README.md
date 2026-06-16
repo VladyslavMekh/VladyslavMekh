@@ -8,6 +8,9 @@ Software Engineering student at PJATK with a strong interest in cybersecurity, b
 <a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5/?locale=uk">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:your.email@gmail.com">  <img src="https://img.shields.io/badge/Gmail-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ### 🧰 Languages and Tools
 
