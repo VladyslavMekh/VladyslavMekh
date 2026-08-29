@@ -2,7 +2,12 @@
 
 **`Software Engineer (Developer/Cybersecurity/Engineer)`**
 
-Software Engineering student at PJATK with a strong interest in cybersecurity, backend systems, cloud technologies, and applied cryptography. Active member of PJSEC and the Cryptography Section, focused on building secure, scalable, and reliable solutions. Passionate about understanding systems at a deeper level and improving their security, performance, and resilience.
+Software Engineer bridging the gap between backend engineering, Web3 systems, and cybersecurity. Student at PJATK and active contributor to PJSEC (Cryptography Section).
+Core Focus:
+- Backend & Systems: Designing resilient microservices and APIs with Spring Boot and high-performance applications with Rust.
+- Security & Cryptography: Hands-on vulnerability analysis, system hardening, and cryptographic protocol analysis within PJSEC.
+- Web3 Ecosystem: Smart contract engineering and decentralized architecture on Solana.
+I focus on understanding technology at the protocol and memory level—ensuring software is performant, scalable, and secure by default. Always open to networking, open-source projects, and engineering discussions.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5/?locale=uk">
