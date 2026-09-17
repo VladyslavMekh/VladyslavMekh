@@ -11,7 +11,7 @@ I focus on understanding technology at the protocol and memory level—ensuring 
 
 ### Connect with me:
 <a href="https://x.com/VladyslavMekh">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=X&logoColor=white">
+  <img src="https://img.shields.io/badge/X?style=for-the-badge&logo=X&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
