@@ -14,7 +14,10 @@ I focus on understanding technology at the protocol and memory level—ensuring 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/VladyslavMekh">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/vladmekh101/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logoColor=white" />
 </a>
 
 ### 🧰 Languages and Tools
