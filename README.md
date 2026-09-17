@@ -10,15 +10,9 @@ Core Focus:
 I focus on understanding technology at the protocol and memory level—ensuring software is performant, scalable, and secure by default. Always open to networking, open-source projects, and engineering discussions.
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/VladyslavMekh">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/vladmekh101/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-mekh-769a5b3b5)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VladyslavMekh)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vladmekh101/)
 
 ### 🧰 Languages and Tools
 
